@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/mi-repo/',
+  base: '/pruebaQr/', // 👈 debe coincidir EXACTO con el nombre del repo
 })
